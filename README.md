@@ -3,7 +3,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=AD42F7&center=true&width=435&lines=%F0%9F%91%8B+Hello+There+;I+am+Mohd+Anas+Khan)](https://git.io/typing-svg) -->
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=SansSerif+Code&duration=2000&pause=1000&color=FFFFFF&center=true&width=435&lines=%F0%9F%91%8B+Hi+There+;I+am+Pratham+Nagvekar" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFFFF&center=true&width=435&lines=%F0%9F%91%8B+Hi+There+;I+am+Pratham+Nagvekar" alt="Typing SVG" /></a>
 
 
 
