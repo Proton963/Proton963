@@ -12,7 +12,7 @@
 I'm a self-taught passionate developer from India 🇮🇳
 
 ## 📊 GitHub Stats
-![Pratham GitHub stats](https://github-readme-stats.vercel.app/api?username=Proton963&show_icons=true&theme=tokyonight&hide=issues&include_all_commits=true&count_private=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Proton963's GitHub stats](https://github-readme-stats.vercel.app/api?username=Proton963&show_icons=true&theme=tokyonight&hide=issues&include_all_commits=true&count_private=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Proton963&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact)
 
 
