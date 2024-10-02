@@ -3,7 +3,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=AD42F7&center=true&width=435&lines=%F0%9F%91%8B+Hello+There+;I+am+Mohd+Anas+Khan)](https://git.io/typing-svg) -->
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=AD42F7&center=true&width=435&lines=%F0%9F%91%8B+Hi+There+;I+am+Pratham+Nagvekar" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFFFF&center=true&width=435&lines=%F0%9F%91%8B+Hi+There+;I+am+Pratham+Nagvekar" alt="Typing SVG" /></a>
 
 
 
@@ -12,7 +12,7 @@
 I'm a self-taught passionate developer from India 🇮🇳
 
 ## 📊 GitHub Stats
-![Proton963's GitHub stats](https://github-readme-stats.vercel.app/api?username=Proton963&show_icons=true&theme=tokyonight&hide=issues&include_all_commits=true&count_private=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Proton963&show_icons=true&theme=tokyonight&hide=issues&include_all_commits=true&count_private=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Proton963&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact)
 
 
