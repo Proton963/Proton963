@@ -12,8 +12,10 @@
 I'm a self-taught passionate developer from India 🇮🇳
 
 ## 📊 GitHub Stats
-![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Proton963&show_icons=true&theme=tokyonight&hide=issues&include_all_commits=true&count_private=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Proton963&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Proton963&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Proton963&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 
 ## 🌐 Connect With Me
@@ -41,3 +43,7 @@ I'm a self-taught passionate developer from India 🇮🇳
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
+
+<!-- <br clear="both">
+<img src="https://raw.githubusercontent.com/Proton963/Proton963/output/snake.svg" alt="Snake animation" /> -->
+
