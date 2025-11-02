@@ -5,8 +5,9 @@
 
 <br />
 
-I'm a self-taught passionate developer from India 🇮🇳
-
+Welcome to my GitHub! <br/>
+I'm a self-taught passionate developer from India 🇮🇳 <br/>
+I love creating solutions that solve real problems and<br/> sharing knowledge with the community.
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Proton963&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula" />
