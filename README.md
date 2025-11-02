@@ -38,6 +38,6 @@ I love creating solutions that solve real problems and<br/> sharing knowledge wi
   <a href="https://www.linkedin.com/in/pratham-nagvekar-393406280/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a> 
-  
+  <img align="right" width="400"  src="./meme2.gif" alt="meme" />
 </div>
 
