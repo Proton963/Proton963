@@ -5,7 +5,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFFFF&center=true&width=435&lines=%F0%9F%91%8B+Hi+There+;I+am+Pratham+Nagvekar" />
 </a>
 
-<br />
+<br/>
+<br/>
 
 Welcome to my GitHub! <br/>
 I'm a self-taught passionate developer from India 🇮🇳 <br/>
