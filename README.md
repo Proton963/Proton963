@@ -1,20 +1,17 @@
 <!-- text Animation code for Name -->
 
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=AD42F7&center=true&width=435&lines=%F0%9F%91%8B+Hello+There+;I+am+Mohd+Anas+Khan)](https://git.io/typing-svg) -->
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFFFF&center=true&width=435&lines=%F0%9F%91%8B+Hi+There+;I+am+Pratham+Nagvekar" alt="Typing SVG" /></a>
-
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFFFF&center=true&width=435&lines=%F0%9F%91%8B+Hi+There+;I+am+Prat" /></a>
 
 <br />
 
 I'm a self-taught passionate developer from India 🇮🇳
 
+<img src="./meme.gif" alt="meme" />
+
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Proton963&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Proton963&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Proton963&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Proton963&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" />
 </div>
 
 ## 💻 Tech Stack
@@ -41,7 +38,6 @@ I'm a self-taught passionate developer from India 🇮🇳
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
 </div>
 
-
 ## 🌐 Connect With Me
 
 <div align="left">
@@ -52,9 +48,6 @@ I'm a self-taught passionate developer from India 🇮🇳
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <!-- <img align="right" height="125" src="img/side_img.gif"  /> -->
 </div>
-
-
-
 
 ###
 
