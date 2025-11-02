@@ -1,6 +1,6 @@
 <!-- text Animation code for Name -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFFFF&center=true&width=435&lines=%F0%9F%91%8B+Hi+There+;I+am+Prat" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=FFFFFF&center=true&width=435&lines=%F0%9F%91%8B+Hi+There+;I+am+Pratham+Nagvekar" /></a>
 
 <br />
 
