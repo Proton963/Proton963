@@ -8,7 +8,6 @@
 <br/>
 <br/>
 
-Welcome to my GitHub! <br/>
 I'm a self-taught passionate developer from India 🇮🇳 <br/>
 I love creating solutions that solve real problems and<br/> sharing knowledge with the community.
 ## 📊 GitHub Stats
